@@ -1,0 +1,37 @@
+td{
+    width: 40px;
+    height: 40px;
+}
+
+
+.navy{
+                
+    background-color: navy;
+}
+
+#hit{
+    margin: auto;
+    width: 30px;
+    height: 30px;
+    background-color: red;   
+}
+
+#miss{
+    margin: auto;
+    width: 30px;
+    height: 30px;
+    background-color: aqua;
+    color: white;
+}
+
+#boom{
+    width: 30px;
+    height: 30px;
+    top: 0px;
+}
+
+/*#splash{
+    width:30px;
+    height:30px;
+    align-content: center;
+}*/
